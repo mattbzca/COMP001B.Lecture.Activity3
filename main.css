@@ -1,0 +1,19 @@
+main {
+    float: left;
+    width: 33%;
+}
+nav {
+    float: left;
+    width: 33%;
+}
+nav ul {
+    list-style-type: none;
+}
+aside {
+    float: left;
+    width: 33%;
+}
+footer {
+    clear: both;
+    font-size: 85%;
+}
